@@ -1,0 +1,1 @@
+select * from properties where desired_rent > ($1)

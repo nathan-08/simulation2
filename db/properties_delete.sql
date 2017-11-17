@@ -1,0 +1,1 @@
+delete from properties where propertyID = $1;
